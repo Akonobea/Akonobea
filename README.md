@@ -1,4 +1,4 @@
-- 👋 Hi, I am Josephine Akonobea Bekoe
+- 👋 Hi, I am Akonobea
 - 👀 I love working with Data.
 - 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on machine learning and data analytics projects.
