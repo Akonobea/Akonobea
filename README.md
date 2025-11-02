@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Akonobea
-- 👀 I’m interested in Data Science
+- 👋 Hi, I am Josephine Akonobea Bekoe
+- 👀 I love working with Data.
 - 🌱 I’m currently learning Python and Data Science
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on machine learning and data analytics projects.
+- 📫 Reach out to me @ akonobeajosiefyn@gmail.com
 
 <!---
 Akonobea/Akonobea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
